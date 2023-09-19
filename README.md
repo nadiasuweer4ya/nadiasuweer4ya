@@ -1,3 +1,4 @@
+[![MasterHead](https://cdn.wallpapersafari.com/43/20/AqS6Xm.gif)](https://rishavchanda.io)
 <h1 align="center">Kiss my ASS</h1
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=nadiasuweer4ya&label=Profile%20Views&color=9&icon=9&pretty=true" />
