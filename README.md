@@ -11,7 +11,22 @@ My dream job is to become a Software Engineer at Apple, just like **Craig Federi
 
 
 # Social Media 🏔
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png" alt="(https://www.facebook.com/nadiagustaf.gustafssonn)" width="50"> <img src="https://ouch-cdn2.icons8.com/_US60I188UuoRurpJ9lfFmfp5baT-Gtp3bghSn-AOL8/rs:fit:456:456/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvOTI0/L2NjYjgwMjlkLWZh/NWMtNDU5Yy05YjBk/LWI0Yzg2MzI3Zjc0/Mi5wbmc.png" alt="https://www.instagram.com/snn4dia/" width="56"> <img src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Medium_svg5-512.png" alt="https://medium.com/@24098_79544" width="50">  <img src="https://img.freepik.com/premium-vector/square-linkedin-logo-isolated-white-background_469489-892.jpg" alt="https://www.linkedin.com/in/suweeraya-noensai-3ab2b2292/" width="50">
+<a href="https://www.facebook.com/nadiagustaf.gustafssonn">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png" alt="Facebook" width="50">
+</a>
+
+<a href="https://www.instagram.com/snn4dia/">
+  <img src="https://ouch-cdn2.icons8.com/_US60I188UuoRurpJ9lfFmfp5baT-Gtp3bghSn-AOL8/rs:fit:456:456/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvOTI0/L2NjYjgwMjlkLWZh/NWMtNDU5Yy05YjBk/LWI0Yzg2MzI3Zjc0/Mi5wbmc.png" alt="Instagram" width="56">
+</a>
+
+<a href="https://medium.com/@24098_79544">
+  <img src="https://cdn1.iconfinder.com/data/icons/social-media-circle-7/512/Circled_Medium_svg5-512.png" alt="Medium" width="50">
+</a>
+
+<a href="https://www.linkedin.com/in/suweeraya-noensai-3ab2b2292/">
+  <img src="https://img.freepik.com/premium-vector/square-linkedin-logo-isolated-white-background_469489-892.jpg" alt="LinkedIn" width="50">
+</a>
+
 
 
 # Recommended 🎸
