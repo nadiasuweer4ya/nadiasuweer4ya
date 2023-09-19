@@ -1,4 +1,7 @@
 <h1 align="center">Kiss my ASS</h1
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=nadiasuweer4ya&label=Profile%20Views&color=9&icon=9&pretty=true" />
+</a>
 
 <img src="https://media1.giphy.com/media/nGEQGzHpvIdi0lGJjn/giphy.gif?cid=ecf05e47hl0uujpk7mtbutljcpp1yn80ufjq288wbvz8hepu&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="80"> **Listening on <img src="https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_CMYK_Green.png" width="80">**
                             
